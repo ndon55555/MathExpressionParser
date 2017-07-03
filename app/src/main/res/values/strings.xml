@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpressionParser</string>
+    <string name="app_note">The only supported operations are exponentiation, explicit multiplication, division, addition, and subtraction. Unexpected user input is not handled.</string>
+    <string name="edit_text_hint">Enter an expression</string>
+    <string name="calculate_button_message">Calculate</string>
+    <string name="answer_string">Answer:</string>
+    <string name="question_marks">\???</string>
+</resources>
